@@ -1,0 +1,6 @@
+{
+    "prolog.executablePath": "C:\\swipl\\bin\\swipl",
+    "code-runner.executorMap": {
+        "prolog": "cd $dir && swipl $fileName"
+    }
+}
